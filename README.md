@@ -45,7 +45,7 @@ pip3 install -r requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/kim-kimani/cryptography-practice-lab
 cd cryptography-practice-lab
 ```
 
